@@ -166,8 +166,15 @@ int main() {
 				cin >> nim;
 				if (deleteNode(nim)) {
 					cout << "nim: " << nim << "berhasil dihapus" << endl;
-					system
+					system("pause");
+					system("cls");
 				}
+				else
+					cout << "Data tidak ditemukan" << endl;
+				break;
+			case 3:
+				traverse();
+				break;
 			}
 
 		}
