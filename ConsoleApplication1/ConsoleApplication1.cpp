@@ -131,3 +131,15 @@ void searchData()
 	}
 }
 
+int main() {
+	int pilihan;
+	do
+	{
+		try 
+		{
+
+			cout << 1.
+		}
+	}
+
+}
